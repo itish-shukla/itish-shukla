@@ -14,6 +14,10 @@ Currently: Diving deeper into machine learning frameworks and starting to explor
  
 </div>
 <br>
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 100px;">
+  <img src="https://user-images.githubusercontent.com/74038190/213911110-aedbef38-a29f-4b6b-a65c-11608b4f75a5.gif" alt="Description of GIF" style="width: 400px; height: auto;"/>
+  <img src="https://user-images.githubusercontent.com/74038190/213911110-aedbef38-a29f-4b6b-a65c-11608b4f75a5.gif" alt="Description of GIF" style="width: 400px; height: auto;"/>
+</div>
 
 
 ## Skills
@@ -59,10 +63,6 @@ Explore these projects that I've worked on:
 Feel free to check out my work and connect with me!
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
-<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 100px;">
-  <img src="https://user-images.githubusercontent.com/74038190/213911110-aedbef38-a29f-4b6b-a65c-11608b4f75a5.gif" alt="Description of GIF" style="width: 400px; height: auto;"/>
-  <img src="https://user-images.githubusercontent.com/74038190/213911110-aedbef38-a29f-4b6b-a65c-11608b4f75a5.gif" alt="Description of GIF" style="width: 400px; height: auto;"/>
-</div>
 
 
 ![Snake animation Contribution Graph](https://raw.githubusercontent.com/Anmol-Baranwal/Anmol-Baranwal/output/github-contribution-grid-snake-dark.svg)
